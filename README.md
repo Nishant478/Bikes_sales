@@ -28,3 +28,5 @@ Ratio of Buyers and Non-Buyers by Region: A pivot table showcased the ratio of c
 
 ## Conclusion
 The analysis of bike sales data provides valuable insights into customer demographics, purchasing behavior, and regional trends. These insights can be used to optimize marketing strategies, target specific customer segments, and drive business growth.
+# Google Sheet Link
+https://docs.google.com/spreadsheets/d/1rHMlcrMJsWvj8BA57xXtUjGRezd0QpwZQ4BJvI5WeHk/edit?usp=drive_link
